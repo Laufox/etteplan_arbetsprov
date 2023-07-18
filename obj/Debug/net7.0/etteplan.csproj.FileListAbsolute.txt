@@ -1,0 +1,15 @@
+C:\MAMP\htdocs\kodtester\etteplan\bin\Debug\net7.0\etteplan.exe
+C:\MAMP\htdocs\kodtester\etteplan\bin\Debug\net7.0\etteplan.deps.json
+C:\MAMP\htdocs\kodtester\etteplan\bin\Debug\net7.0\etteplan.runtimeconfig.json
+C:\MAMP\htdocs\kodtester\etteplan\bin\Debug\net7.0\etteplan.dll
+C:\MAMP\htdocs\kodtester\etteplan\bin\Debug\net7.0\etteplan.pdb
+C:\MAMP\htdocs\kodtester\etteplan\obj\Debug\net7.0\etteplan.csproj.AssemblyReference.cache
+C:\MAMP\htdocs\kodtester\etteplan\obj\Debug\net7.0\etteplan.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAMP\htdocs\kodtester\etteplan\obj\Debug\net7.0\etteplan.AssemblyInfoInputs.cache
+C:\MAMP\htdocs\kodtester\etteplan\obj\Debug\net7.0\etteplan.AssemblyInfo.cs
+C:\MAMP\htdocs\kodtester\etteplan\obj\Debug\net7.0\etteplan.csproj.CoreCompileInputs.cache
+C:\MAMP\htdocs\kodtester\etteplan\obj\Debug\net7.0\etteplan.dll
+C:\MAMP\htdocs\kodtester\etteplan\obj\Debug\net7.0\refint\etteplan.dll
+C:\MAMP\htdocs\kodtester\etteplan\obj\Debug\net7.0\etteplan.pdb
+C:\MAMP\htdocs\kodtester\etteplan\obj\Debug\net7.0\etteplan.genruntimeconfig.cache
+C:\MAMP\htdocs\kodtester\etteplan\obj\Debug\net7.0\ref\etteplan.dll
